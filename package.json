@@ -4,7 +4,7 @@
     "version": "0.0.5",
     "author": "napa3um <napa3um@gmail.com>",
     "dependencies": {
-        "canvas": "1.0.4"
+        "canvas": "1.2.3"
     },
     "main": "./captcha.js",
     "engines": {
